@@ -1,0 +1,453 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/17.0/project
+Ealu1
+Z0 w1513245170
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dC:/intelFPGA_pro/17.0/project2
+Z7 8C:/intelFPGA_pro/17.0/project2/ALU1.vhd
+Z8 FC:/intelFPGA_pro/17.0/project2/ALU1.vhd
+l0
+L7
+VYClF6b=9]mlIzZSAc;1eF1
+!s100 OQBM_JCBT[8f39_S:LF6W2
+Z9 OV;C;10.5c;63
+33
+Z10 !s110 1513607467
+!i10b 1
+Z11 !s108 1513607467.000000
+Z12 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/intelFPGA_pro/17.0/project2/ALU1.vhd|
+Z13 !s107 C:/intelFPGA_pro/17.0/project2/ALU1.vhd|
+!i113 1
+Z14 o-work work -2008 -explicit
+Z15 tExplicit 1 CvgOpt 0
+Astruct1
+R1
+R2
+R3
+R4
+R5
+DEx4 work 4 alu1 0 22 YClF6b=9]mlIzZSAc;1eF1
+l17
+L16
+Vc9PZ^7j=08:o?il7hR9z]1
+!s100 Tk;5@D9JKVPF:o96MnJTl2
+R9
+33
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Eflip_flop
+Z16 w1513509670
+R4
+R5
+R6
+Z17 8C:/intelFPGA_pro/17.0/project2/flip_flop.vhd
+Z18 FC:/intelFPGA_pro/17.0/project2/flip_flop.vhd
+l0
+L4
+V6h_PML1fBn]Zo_VCjI8om0
+!s100 76^Mg>T;NXRE8dE00h0bm1
+R9
+33
+Z19 !s110 1513607468
+!i10b 1
+Z20 !s108 1513607468.000000
+Z21 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/intelFPGA_pro/17.0/project2/flip_flop.vhd|
+Z22 !s107 C:/intelFPGA_pro/17.0/project2/flip_flop.vhd|
+!i113 1
+R14
+R15
+Aarch1
+R4
+R5
+DEx4 work 9 flip_flop 0 22 6h_PML1fBn]Zo_VCjI8om0
+l11
+L10
+VB>jOWIZY@BN[:nWo5e;c70
+!s100 3VkkU89QR4[m4zRUnUQ5]0
+R9
+33
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R14
+R15
+Eir_decoder
+Z23 w1513601437
+R1
+R4
+R5
+R6
+Z24 8C:/intelFPGA_pro/17.0/project2/ir_decoder.vhd
+Z25 FC:/intelFPGA_pro/17.0/project2/ir_decoder.vhd
+l0
+L9
+VT=?f23c3?Y9c]UfF5cld40
+!s100 QgbGY=]3jg`]>_`aS8j<e2
+R9
+33
+R19
+!i10b 1
+R20
+Z26 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/intelFPGA_pro/17.0/project2/ir_decoder.vhd|
+Z27 !s107 C:/intelFPGA_pro/17.0/project2/ir_decoder.vhd|
+!i113 1
+R14
+R15
+Aarch1
+R1
+R4
+R5
+DEx4 work 10 ir_decoder 0 22 T=?f23c3?Y9c]UfF5cld40
+l26
+L20
+V@Rz^FJk5XQRoY2_NAZH5c3
+!s100 OOkf9bG]c5e>435hoo;iC1
+R9
+33
+R19
+!i10b 1
+R20
+R26
+R27
+!i113 1
+R14
+R15
+Empcregister
+Z28 w1513607284
+R4
+R5
+R6
+Z29 8C:/intelFPGA_pro/17.0/project2/MpcRegister.vhd
+Z30 FC:/intelFPGA_pro/17.0/project2/MpcRegister.vhd
+l0
+L4
+V9?T28UR`JJkl;_I9bNaNe3
+!s100 m@g>CH8_QRjn@eB0LOjAO1
+R9
+32
+Z31 !s110 1513607471
+!i10b 1
+Z32 !s108 1513607471.000000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_pro/17.0/project2/MpcRegister.vhd|
+Z34 !s107 C:/intelFPGA_pro/17.0/project2/MpcRegister.vhd|
+!i113 1
+Z35 o-work work -2002 -explicit
+R15
+Aarch1
+R4
+R5
+Z36 DEx4 work 11 mpcregister 0 22 9?T28UR`JJkl;_I9bNaNe3
+l13
+L12
+Z37 VjciSOz48lD;BLhmLd?bN:3
+Z38 !s100 E?BQB?zBb4dCmbd0z14S[1
+R9
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R35
+R15
+En_bit_register
+Z39 w1513606186
+R4
+R5
+R6
+Z40 8C:/intelFPGA_pro/17.0/project2/n_bit_register.vhd
+Z41 FC:/intelFPGA_pro/17.0/project2/n_bit_register.vhd
+l0
+L4
+VMe`RlM5AG0HAjblX`7BTI3
+!s100 _a@<L;@4nZBhdQoCXTN?c3
+R9
+33
+R19
+!i10b 1
+R20
+Z42 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/intelFPGA_pro/17.0/project2/n_bit_register.vhd|
+Z43 !s107 C:/intelFPGA_pro/17.0/project2/n_bit_register.vhd|
+!i113 1
+R14
+R15
+Aarch1
+R4
+R5
+DEx4 work 14 n_bit_register 0 22 Me`RlM5AG0HAjblX`7BTI3
+l13
+L12
+VOKn0F6?4^o6hC822lMlZ<0
+!s100 ]kUhJc5^l=>UZWYPA_n:Y3
+R9
+33
+R19
+!i10b 1
+R20
+R42
+R43
+!i113 1
+R14
+R15
+Endecoder
+Z44 w1508575756
+R1
+R4
+R5
+R6
+Z45 8C:/intelFPGA_pro/17.0/project2/ndecoder.vhd
+Z46 FC:/intelFPGA_pro/17.0/project2/ndecoder.vhd
+l0
+L5
+Ve2H`no?S6L0VTg3IHl]=l0
+!s100 oee^ScY=GNFKgPLNa2LXk0
+R9
+33
+R19
+!i10b 1
+R20
+Z47 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/intelFPGA_pro/17.0/project2/ndecoder.vhd|
+Z48 !s107 C:/intelFPGA_pro/17.0/project2/ndecoder.vhd|
+!i113 1
+R14
+R15
+Aarch1
+R1
+R4
+R5
+DEx4 work 8 ndecoder 0 22 e2H`no?S6L0VTg3IHl]=l0
+l12
+L11
+V[CW^FTFMWIVeoIPLUH47E0
+!s100 HE`Bo[mDH`iMHW@OO8?:[3
+R9
+33
+R19
+!i10b 1
+R20
+R47
+R48
+!i113 1
+R14
+R15
+Eram
+Z49 w1513603036
+R1
+R4
+R5
+R6
+Z50 8C:/intelFPGA_pro/17.0/project2/ram.vhd
+Z51 FC:/intelFPGA_pro/17.0/project2/ram.vhd
+l0
+L5
+Vkc^SIWOQe7ndaLbm<;;WK3
+!s100 PXEbdbP5LRQT2M:e::_@_3
+R9
+33
+R19
+!i10b 1
+R20
+Z52 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/intelFPGA_pro/17.0/project2/ram.vhd|
+Z53 !s107 C:/intelFPGA_pro/17.0/project2/ram.vhd|
+!i113 1
+R14
+R15
+Asyncrama
+R1
+R4
+R5
+DEx4 work 3 ram 0 22 kc^SIWOQe7ndaLbm<;;WK3
+l18
+L14
+ViJFFRA=;E?KK=Mc:WJZ@:2
+!s100 a<X9[9>Ki?MOo?EZH2i;m1
+R9
+33
+R19
+!i10b 1
+R20
+R52
+R53
+!i113 1
+R14
+R15
+Eregisterfile
+Z54 w1513607402
+R4
+R5
+R6
+Z55 8C:/intelFPGA_pro/17.0/project2/emptyRegisterFile.vhd
+Z56 FC:/intelFPGA_pro/17.0/project2/emptyRegisterFile.vhd
+l0
+L6
+VdX;Ahed3kil^Cj[NS77:M2
+!s100 `JGYF8=FRFbgM]g`X[[W`2
+R9
+33
+R19
+!i10b 1
+R11
+Z57 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/intelFPGA_pro/17.0/project2/emptyRegisterFile.vhd|
+Z58 !s107 C:/intelFPGA_pro/17.0/project2/emptyRegisterFile.vhd|
+!i113 1
+R14
+R15
+Astructuralmodel
+R4
+R5
+DEx4 work 12 registerfile 0 22 dX;Ahed3kil^Cj[NS77:M2
+l100
+L12
+VM01SdMeYTS:gDnAPZz?`J2
+!s100 WMS[Cg7dg<zKWW2m?;YFo0
+R9
+33
+R19
+!i10b 1
+R11
+R57
+R58
+!i113 1
+R14
+R15
+Erom
+Z59 w1513602328
+R1
+R4
+R5
+R6
+Z60 8C:/intelFPGA_pro/17.0/project2/rom.vhd
+Z61 FC:/intelFPGA_pro/17.0/project2/rom.vhd
+l0
+L5
+VnfgG=c5_?TBYM0YO<3h1E0
+!s100 in^1:dnBEIg395@2bd=5d0
+R9
+33
+R19
+!i10b 1
+R20
+Z62 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/intelFPGA_pro/17.0/project2/rom.vhd|
+Z63 !s107 C:/intelFPGA_pro/17.0/project2/rom.vhd|
+!i113 1
+R14
+R15
+Amy_rom
+R1
+R4
+R5
+DEx4 work 3 rom 0 22 nfgG=c5_?TBYM0YO<3h1E0
+l46
+L9
+V]SOm4JS=1TVR^mM?floM<2
+!s100 >=XijTX29>n9NFQ@_Yf_i1
+R9
+33
+R19
+!i10b 1
+R20
+R62
+R63
+!i113 1
+R14
+R15
+Espregister
+Z64 w1513607164
+R4
+R5
+R6
+Z65 8C:/intelFPGA_pro/17.0/project2/spRegister.vhd
+Z66 FC:/intelFPGA_pro/17.0/project2/spRegister.vhd
+l0
+L4
+V7KhOTcG<fU7HJSa[Y]Kg03
+!s100 JKDT5]KID]ac2_K>SoG_92
+R9
+32
+Z67 !s110 1513607469
+!i10b 1
+Z68 !s108 1513607469.000000
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_pro/17.0/project2/spRegister.vhd|
+Z70 !s107 C:/intelFPGA_pro/17.0/project2/spRegister.vhd|
+!i113 1
+R35
+R15
+Aarch1
+R4
+R5
+DEx4 work 10 spregister 0 22 7KhOTcG<fU7HJSa[Y]Kg03
+l13
+L12
+Vo@:jooHYV]X=79Zz>g?G@0
+!s100 K<2Df5AM9oGWgNVJO9dL42
+R9
+32
+R67
+!i10b 1
+R68
+R69
+R70
+!i113 1
+R35
+R15
+Etri_state_buffer
+Z71 w1507203732
+R4
+R5
+R6
+Z72 8C:/intelFPGA_pro/17.0/project2/tri_state_buffer.vhd
+Z73 FC:/intelFPGA_pro/17.0/project2/tri_state_buffer.vhd
+l0
+L4
+V6hoYai8cBFMS@RQ5=H5OU1
+!s100 lFQ`kJFTma?hg6]WLdmUl2
+R9
+33
+R67
+!i10b 1
+R68
+Z74 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/intelFPGA_pro/17.0/project2/tri_state_buffer.vhd|
+Z75 !s107 C:/intelFPGA_pro/17.0/project2/tri_state_buffer.vhd|
+!i113 1
+R14
+R15
+Aarch
+R4
+R5
+DEx4 work 16 tri_state_buffer 0 22 6hoYai8cBFMS@RQ5=H5OU1
+l12
+L11
+Vb@d??1KbaH3N<T2LzJRg`0
+!s100 2YOM0X;9H^cVN9TFiFk1V2
+R9
+33
+R67
+!i10b 1
+R68
+R74
+R75
+!i113 1
+R14
+R15
